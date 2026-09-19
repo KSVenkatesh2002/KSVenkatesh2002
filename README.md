@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,50:007acc,100:68a063&height=220&section=header&text=VENKATESH%20K%20S&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%7C%20React%20%26%20Next.js%20Developer&descAlignY=62&descSize=20&descColor=f0f0f0" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:61dafb,50:007acc,100:68a063&amp;height=220&amp;section=header&amp;text=VENKATESH%20K%20S&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=MERN%20Stack%20%7C%20React%20and%20Next.js%20Developer&amp;descAlignY=62&amp;descSize=20&amp;descColor=f0f0f0" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Subtitle -->
   <a href="https://venkatesh-k-s.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React.js+%26+Next.js+Specialist;Building+Scalable+Full-Stack+Web+Apps;Open+for+Full-Time+Roles+%26+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=61DAFB&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=MERN+Stack+Developer;React.js+and+Next.js+Specialist;Building+Scalable+Full-Stack+Web+Apps;Open+for+Full-Time+Roles" alt="Typing SVG" />
   </a>
 
   <br/><br/>

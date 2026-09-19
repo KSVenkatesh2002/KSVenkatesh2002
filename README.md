@@ -32,9 +32,9 @@
 
 ## 🙋‍♂️ About Me
 
-I am a passionate **MERN Stack Developer** and **Computer Science & Engineering Graduate** (B.E. CSE 2025, CGPA: 8.12/10) with hands-on industry experience building scalable web applications. 
+I am a passionate **MERN Stack Developer** and **Computer Science & Engineering Graduate** (B.E. CSE 2025, CGPA: 8.21/10) with hands-on industry experience building scalable web applications. 
 
-- 💼 **Experience**: Worked as a **Next.js Frontend Intern** at *CTSV Solution*, developing dynamic UI components, integrating REST APIs, and building client-side authentication.
+- 💼 **Experience**: Currently working as a **Web App Developer** at *Fueint*. Previously worked as a **Next.js Frontend Intern** at *CTSV Solution*.
 - 🚀 **Specialization**: Full-Stack Web Development, Responsive UI/UX Design, Real-time WebSockets, and Secure API Architectures.
 - 🎯 **Looking For**: Full-time opportunities as a **MERN Stack Developer / Frontend Engineer / React Developer**.
 - 📍 **Location**: Tiruppur / Coimbatore, Tamil Nadu, India.
@@ -138,8 +138,9 @@ I am a passionate **MERN Stack Developer** and **Computer Science & Engineering 
 
 | Role / Degree | Organization / Institution | Duration | Highlight / Score |
 | :--- | :--- | :--- | :--- |
+| **Web App Developer** | **Fueint** | Mar 2026 – Present | Full-stack web application development |
 | **Next.js Frontend Intern** | **CTSV Solution**, Coimbatore | Nov 2024 – Feb 2025 | Next.js UI development, REST API integrations & Auth flow |
-| **B.E. Computer Science & Engg.** | **EASA College of Technology** | Aug 2021 – May 2025 | **CGPA: 8.12 / 10** |
+| **B.E. Computer Science & Engg.** | **EASA College of Technology** | Aug 2021 – May 2025 | **CGPA: 8.21 / 10** |
 
 ---
 
@@ -157,17 +158,17 @@ I am a passionate **MERN Stack Developer** and **Computer Science & Engineering 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=KSVenkatesh2002&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Venkatesh's GitHub Stats" height="175" />
+        <img src="https://github-readme-stats.vercel.app/api?username=KSVenkatesh2002&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true&amp;hide_border=true" alt="Venkatesh's GitHub Stats" height="175" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSVenkatesh2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSVenkatesh2002&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" height="175" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSVenkatesh2002&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KSVenkatesh2002&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" height="160" />
 </div>
 
 <br/>

@@ -158,10 +158,10 @@ I am a passionate **MERN Stack Developer** and **Computer Science & Engineering 
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=KSVenkatesh2002&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true&amp;hide_border=true" alt="Venkatesh's GitHub Stats" height="175" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KSVenkatesh2002&amp;show_icons=true&amp;theme=tokyonight&amp;count_private=true&amp;hide_border=true" alt="Venkatesh's GitHub Stats" height="175" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSVenkatesh2002&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" height="175" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KSVenkatesh2002&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Top Languages" height="175" />
       </td>
     </tr>
   </table>
